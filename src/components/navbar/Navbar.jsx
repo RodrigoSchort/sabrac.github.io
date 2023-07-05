@@ -18,6 +18,7 @@ const Navbar = () => {
           <p><a href="#possibility">História</a></p>
           <p><a href="#features">Ações</a></p>
           <p><a href="#blog">Contato</a></p>
+          <p><a href="../../eng_pg/header">in English</a></p>
         </div>
       </div>
       <div className="gpt3__navbar-sign">
@@ -34,10 +35,7 @@ const Navbar = () => {
             <p><a href="#possibility">História</a></p>
             <p><a href="#features">Ações</a></p>
             <p><a href="#blog">Contato</a></p>
-          </div>
-          <div className="gpt3__navbar-menu_container-links-sign">
-            <p>Sign in</p>
-            <button type="button">Sign up</button>
+            <p><a href="#blog">in English</a></p>
           </div>
         </div>
         )}

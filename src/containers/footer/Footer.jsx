@@ -10,26 +10,19 @@ const Footer = () => (
     <div className="gpt3__footer-links">
       <div className="gpt3__footer-links_logo">
         <img src={gpt3Logo} alt="gpt3_logo" />
-        <p>Crechterwoord K12 182 DK Alknjkcb, <br /> All Rights Reserved</p>
+        <p>SABRAC</p>
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Links</h4>
-        <p>Overons</p>
-        <p>Social Media</p>
-        <p>Counters</p>
-        <p>Contact</p>
+        <p><a href="https://www.canva.com/design/DAFAyQRRuZs/JpDC32IlHaeaC86cTKnvtg/view?utm_content=DAFAyQRRuZs&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank">Portfolio de Atividades</a></p>
+        <p><a href="https://www.facebook.com/sabracaputera" target="_blank">Facebook</a></p>
+        <p><a href="https://www.instagram.com/sabracaputera/" target="_blank">Instagram</a></p>
+        <p><a href="https://wa.me/5511988784972" target="_blank">Contato</a></p>
       </div>
       <div className="gpt3__footer-links_div">
         <h4>Company</h4>
-        <p>Terms & Conditions </p>
-        <p>Privacy Policy</p>
-        <p>Contact</p>
-      </div>
-      <div className="gpt3__footer-links_div">
-        <h4>Get in touch</h4>
-        <p>Crechterwoord K12 182 DK Alknjkcb</p>
-        <p>085-132567</p>
-        <p>info@payme.net</p>
+        <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSflR2XBFMgQwtpsqAJkKLLN5fSDdM89bap5vqLNSqeXLcOgKg/viewform" target="_blank">Vagas de Voluntariado</a></p>
+        <p>sabracaputera@gmail.com</p>
       </div>
     </div>
 

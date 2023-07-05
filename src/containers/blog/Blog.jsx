@@ -13,14 +13,6 @@ const Blog = () => (
         <Article imgUrl={blog01} date="20.11.2022" text="4a edição do bazar reciclagem." />
         <Article imgUrl={blog02} date="23.10.2022" text="Festa das crianças beneficente." />
         <Article imgUrl={blog03} date="11.12.2022" text="Reunião sobre alagamentos e como resolver." />
-        <Article imgUrl={blog04} date="20.11.2022" text="Quisque iaculis nibh a convallis blandit. Phasellus sit amet velit in ex varius lacinia." />
-        <Article imgUrl={blog05} date="Sep 25, 2021" text="Quisque iaculis nibh a convallis blandit. Phasellus sit amet velit in ex varius lacinia." />
-        <Article imgUrl={blog06} date="Sep 26, 2021" text="Quisque iaculis nibh a convallis blandit. Phasellus sit amet velit in ex varius lacinia." />
-        <Article imgUrl={blog07} date="Sep 26, 2021" text="Quisque iaculis nibh a convallis blandit. Phasellus sit amet velit in ex varius lacinia." />
-        <Article imgUrl={blog08} date="Sep 26, 2021" text="Quisque iaculis nibh a convallis blandit. Phasellus sit amet velit in ex varius lacinia." />
-        <Article imgUrl={blog09} date="Sep 26, 2021" text="Quisque iaculis nibh a convallis blandit. Phasellus sit amet velit in ex varius lacinia." />
-        <Article imgUrl={blog10} date="Sep 26, 2021" text="Quisque iaculis nibh a convallis blandit. Phasellus sit amet velit in ex varius lacinia." />
-        <Article imgUrl={blog11} date="Sep 26, 2021" text="Quisque iaculis nibh a convallis blandit. Phasellus sit amet velit in ex varius lacinia." />
       </div>
     </div>
   </div>

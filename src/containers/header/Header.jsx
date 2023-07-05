@@ -19,7 +19,10 @@ const Header = () => (
         </p>
 
       <div className="gpt3__header-content__input">
-        <button type="button">Nos apoe, faça uma doação</button>
+        <a href="https://www.kickante.com.br/crowdfunding/doe-para-sabrac" target="_blank">
+          <button type="button">Nos apoie, faça uma doação</button>
+        </a>
+          
       </div>
     </div>
 

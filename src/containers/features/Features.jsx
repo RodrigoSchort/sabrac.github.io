@@ -26,7 +26,9 @@ const Features = () => (
     <div className="gpt3__features-heading">
       <h1 className="gradient__text">Faça parte do nosso projeto e contribua com a história do Bairro</h1>
         <div className='gpt3__cta-btn1'>
-          <button>Clique aqui e se torne um Voluntário!</button>
+          <a href="https://www.instagram.com/rafakoester/?hl=pt" target="_blank">
+            <button>Clique aqui e se torne um Voluntário!</button>
+          </a>
         </div>
       
     </div>

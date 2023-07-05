@@ -1,8 +1,8 @@
 import React from 'react';
 import Feature from '../../components/feature/Feature';
-import './whatGPT3.css';
+import './about.css';
 
-const WhatGPT3 = () => (
+const About = () => (
   <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
     <div className="gpt3__whatgpt3-feature">
       <Feature title="" text="A associação ficou desativada desde 2014. Mas no ano passado um grupo de moradores se uniu para reativá-la após ficarem revoltados com os diversos
@@ -24,4 +24,4 @@ const WhatGPT3 = () => (
   </div>
 );
 
-export default WhatGPT3;
+export default About;

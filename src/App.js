@@ -1,7 +1,7 @@
 import React from 'react';
 
-import { Footer, Blog, Possibility, Features, WhatGPT3, Header } from './containers';
-import { CTA, Brand, Navbar } from './components';
+import { Footer, Blog, Possibility, Features, About, Header } from './containers';
+import { Donate, Brand, Navbar } from './components';
 
 import './App.css';
 
@@ -12,10 +12,10 @@ const App = () => (
       <Header />
     </div>
     <Brand />
-    <WhatGPT3 />
+    <About />
     <Features />
     <Possibility />
-    <CTA />
+    <Donate />
     <Blog />
     <Footer />
   </div>
