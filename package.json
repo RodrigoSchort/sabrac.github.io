@@ -1,5 +1,5 @@
 {
-  "name": "website_rafa",
+  "name": "package-sabrac",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,5 +41,10 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
-  }
+  },
+  "description": "the best",
+  "main": "index.js",
+  "repository": "https://github.com/Cyberdrick/sabrac.github.io.git",
+  "author": "<rodrigoschort01@gmail.com>",
+  "license": "MIT"
 }
