@@ -1,5 +1,5 @@
 {
-  "name": "package-sabrac",
+  "name": "sabrac.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,7 +12,7 @@
     "react-scripts": "^5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://sabrac.github.io/index.js",
+  "homepage": "https://sabrac-institute.onrender.com",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
@@ -45,6 +45,6 @@
   "description": "the best",
   "main": "index.js",
   "repository": "https://github.com/Cyberdrick/sabrac.github.io.git",
-  "author": "<rodrigoschort01@gmail.com>",
+  "author": "Rodrigo Schort <rodrigoschort01@gmail.com>",
   "license": "MIT"
 }
