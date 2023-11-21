@@ -1,0 +1,40 @@
+:root {
+  --font-family: "Manrope", sans-serif;
+
+  --gradient-text: linear-gradient(89.97deg, #bb5820 1.84%, #d8d084 150.67%);
+  --gradient-bar: linear-gradient(103.22deg, #bb5820 -13.86%, #d8d084 120.55%);
+
+  --color-bg: #ffffff;
+  --color-footer: #663113;
+  --color-blog: #ff0000;
+  --color-text: #000000;
+  --color-subtext: #bb5820;
+}
+
+.main-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.languages_container {
+  width: 50%;
+  background-color: var(--color-footer);
+}
+
+.languages_container img {
+  margin-left: 15px;
+  cursor: pointer;
+}
+
+.social-media_container {
+  width: 50%;
+  padding: 10px 0rem 5px;
+  display: flex;
+  justify-content: flex-end;
+  background-color: var(--color-footer);
+}
+
+.social-media_container a {
+  margin-right: 50px;
+}
