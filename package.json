@@ -17,7 +17,7 @@
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts test --verbose",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
@@ -40,6 +40,7 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0",
+    "jest": "^27.5.1",
     "react-scripts": "^5.0.1"
   },
   "description": "the best",
