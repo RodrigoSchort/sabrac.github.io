@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
-import logo from '../../logo1.png';
+import logo from '../../assets/logo1.png';
 import './navbar.css';
 
 const Navbar = ({ englishLanguage }) => {
@@ -24,8 +24,8 @@ const Navbar = ({ englishLanguage }) => {
       </div>
       <div className="gpt3__navbar-menu">
         {toggleMenu
-          ? <RiCloseLine color="#4F4F4F" size={27} onClick={() => setToggleMenu(false)} />
-          : <RiMenu3Line color="#4F4F4F" size={27} onClick={() => setToggleMenu(true)} />}
+          ? <RiCloseLine data-testid="menu-icon" color="#4F4F4F" size={27} onClick={() => setToggleMenu(false)} />
+          : <RiMenu3Line data-testid="menu-icon" color="#4F4F4F" size={27} onClick={() => setToggleMenu(true)} />}
         {toggleMenu && (
           <div className="gpt3__navbar-menu_container scale-up-center">
             <div className="gpt3__navbar-menu_container-links">
